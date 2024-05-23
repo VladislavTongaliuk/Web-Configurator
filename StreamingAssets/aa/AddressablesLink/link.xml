@@ -1,5 +1,6 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Bispo" preserve="all" />
     <type fullname="GetBoundingBox" preserve="all" />
     <type fullname="Line_Size" preserve="all" />
     <type fullname="LinesList" preserve="all" />
