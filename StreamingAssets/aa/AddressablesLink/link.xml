@@ -2,10 +2,13 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Bispo" preserve="all" />
     <type fullname="Camera_Settings" preserve="all" />
+    <type fullname="Colours" preserve="all" />
+    <type fullname="Font" preserve="all" />
     <type fullname="GetBoundingBox" preserve="all" />
     <type fullname="Line_Size" preserve="all" />
     <type fullname="LinesList" preserve="all" />
     <type fullname="Shield" preserve="all" />
+    <type fullname=".Griph" preserve="nothing" serialized="true" />
     <type fullname=".SimpleChanger" preserve="nothing" serialized="true" />
     <type fullname=".SizeType" preserve="nothing" serialized="true" />
     <type fullname=".TextData" preserve="nothing" serialized="true" />
