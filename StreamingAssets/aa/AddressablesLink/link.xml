@@ -1,17 +1,23 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Animation_Custom" preserve="all" />
     <type fullname="Bispo" preserve="all" />
+    <type fullname="Bispo_InsidePanel_Animation" preserve="all" />
     <type fullname="Camera_Settings" preserve="all" />
     <type fullname="Colours" preserve="all" />
     <type fullname="Font" preserve="all" />
+    <type fullname="Fonts" preserve="all" />
     <type fullname="GetBoundingBox" preserve="all" />
     <type fullname="Line_Size" preserve="all" />
     <type fullname="LinesList" preserve="all" />
     <type fullname="Shield" preserve="all" />
-    <type fullname=".Griph" preserve="nothing" serialized="true" />
+    <type fullname=".AnimData" preserve="nothing" serialized="true" />
+    <type fullname=".AnimationPart" preserve="nothing" serialized="true" />
+    <type fullname=".SameTextSize" preserve="nothing" serialized="true" />
     <type fullname=".SimpleChanger" preserve="nothing" serialized="true" />
     <type fullname=".SizeType" preserve="nothing" serialized="true" />
     <type fullname=".TextData" preserve="nothing" serialized="true" />
+    <type fullname=".Griph" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -26,13 +32,13 @@
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TextMeshPro" preserve="all" />
     <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
     <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
