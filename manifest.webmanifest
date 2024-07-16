@@ -1,6 +1,6 @@
 {
-    "name": "Web Configurator_Metzler",
-    "short_name": "Web Configurator_Metzler",
+    "name": "Configurator_Web_Metzler",
+    "short_name": "Configurator_Web_Metzler",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#FFFFFF",
